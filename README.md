@@ -1,4 +1,4 @@
-# Mapty Workouts
+# Mapty Workout Tracker
 
 <sub>Disclaimer: This project was built as a part of "The Complete Javascript Course" by Jonas Schmedtman on Udemy.</sub>
 
